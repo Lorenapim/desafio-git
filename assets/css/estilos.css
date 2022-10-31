@@ -11,6 +11,12 @@ body {
   background-position: left;
 }
 
+/* Acerca de mí */
+
+i {
+  font-size: xxx-large;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
